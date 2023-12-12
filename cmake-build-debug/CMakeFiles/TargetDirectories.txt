@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug/CMakeFiles/analog_digital_clock.dir
+C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

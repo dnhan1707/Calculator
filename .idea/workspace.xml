@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="analog_digital_clock" targetName="analog_digital_clock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="2O4fIhuCSQQNAurjlcaeJooyzJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/ASUS/CLionProjects/CS003A/SFML_Template",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\CLionProjects\LAB\SFML_Template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\CLionProjects\CS003A\Calculator with SFML One Digit\Fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="analog_digital_clock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="analog_digital_clock" TARGET_NAME="analog_digital_clock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="analog_digital_clock" RUN_TARGET_NAME="analog_digital_clock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="" />
+      <created>1680824697059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680824697059</updated>
+      <workItem from="1680824700505" duration="477000" />
+      <workItem from="1680825236667" duration="77000" />
+      <workItem from="1680825344375" duration="45000" />
+      <workItem from="1681257225270" duration="14000" />
+      <workItem from="1681437686847" duration="13000" />
+      <workItem from="1681445728773" duration="895000" />
+      <workItem from="1681521486474" duration="8625000" />
+      <workItem from="1681595146978" duration="2000" />
+      <workItem from="1681694254372" duration="689000" />
+      <workItem from="1681765918794" duration="3207000" />
+      <workItem from="1681772023577" duration="1315000" />
+      <workItem from="1681773445930" duration="19000" />
+      <workItem from="1682034754139" duration="1166000" />
+      <workItem from="1682036218775" duration="113000" />
+      <workItem from="1682051425645" duration="226000" />
+      <workItem from="1682746486894" duration="6000" />
+      <workItem from="1700006803710" duration="6850000" />
+      <workItem from="1700183652366" duration="2827000" />
+      <workItem from="1700515482837" duration="12792000" />
+      <workItem from="1700599009617" duration="9808000" />
+      <workItem from="1700611446376" duration="7424000" />
+      <workItem from="1700683152207" duration="4286000" />
+      <workItem from="1700718629767" duration="5661000" />
+      <workItem from="1700760444993" duration="6087000" />
+      <workItem from="1700778917698" duration="13480000" />
+      <workItem from="1700850782825" duration="448000" />
+      <workItem from="1700855409390" duration="2939000" />
+      <workItem from="1700899346964" duration="3052000" />
+      <workItem from="1700940193238" duration="14570000" />
+      <workItem from="1701214053887" duration="1771000" />
+      <workItem from="1701216582334" duration="2169000" />
+      <workItem from="1701294522223" duration="1637000" />
+      <workItem from="1701302800136" duration="95000" />
+      <workItem from="1701387867919" duration="4512000" />
+      <workItem from="1701489489300" duration="2340000" />
+      <workItem from="1701624905575" duration="749000" />
+      <workItem from="1701634439459" duration="4654000" />
+      <workItem from="1701999749435" duration="1308000" />
+      <workItem from="1702002933347" duration="732000" />
+      <workItem from="1702006849791" duration="6470000" />
+      <workItem from="1702059706518" duration="2708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
