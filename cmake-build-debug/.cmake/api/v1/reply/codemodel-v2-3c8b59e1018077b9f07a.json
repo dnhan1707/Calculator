@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug",
-		"source" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit"
+		"build" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator/cmake-build-debug",
+		"source" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator"
 	},
 	"version" : 
 	{

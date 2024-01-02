@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit
+# Install script for directory: C:/Users/ASUS/CLionProjects/CS003A/Calculator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ASUS/CLionProjects/CS003A/Calculator/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

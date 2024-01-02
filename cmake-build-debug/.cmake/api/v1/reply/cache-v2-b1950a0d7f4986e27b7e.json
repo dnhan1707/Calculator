@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug"
+			"value" : "c:/Users/ASUS/CLionProjects/CS003A/Calculator/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -626,18 +626,6 @@
 			"value" : ""
 		},
 		{
-			"name" : "CMAKE_GNUtoMS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Convert GNU import libraries to MS format (requires Visual Studio)"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
 			"name" : "CMAKE_HOME_DIRECTORY",
 			"properties" : 
 			[
@@ -647,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit"
+			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1819,7 +1807,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit/cmake-build-debug"
+			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator/cmake-build-debug"
 		},
 		{
 			"name" : "analog_digital_clock_IS_TOP_LEVEL",
@@ -1843,7 +1831,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator with SFML One Digit"
+			"value" : "C:/Users/ASUS/CLionProjects/CS003A/Calculator"
 		}
 	],
 	"kind" : "cache",
